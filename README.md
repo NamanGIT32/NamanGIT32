@@ -5,9 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namangit32&label=Profile%20views&color=0e75b6&style=flat" alt="namangit32" /> </p>
 
-- 🌱 I’m currently learning **DSA in C++**
+- 🌱 Improving problem solving skills through **DSA**
 
 - 💬 Ask me about **Data Structures and Algorithms**
+
+- 💻 I'am a **frontend developer**
 
 - 📫 How to reach me **namanpaliwal95@gmail.com**
 
@@ -20,7 +22,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://dwglogo.com/wp-content/uploads/2017/09/React_logo.png" alt="react" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-512.png" alt="react" width="40" height="40"/> </a>  <a href="https://react-redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.Iq_ygaJ4lD50kgCaxVJwBgAAAA?rs=1&pid=ImgDetMain" alt="react" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=namangit32&show_icons=true&locale=en&layout=compact" alt="namangit32" /></p>
 
