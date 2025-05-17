@@ -60,21 +60,17 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
 
-<p>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=namangit32&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
-</p>
-
-<p>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=namangit32&theme=default" alt="GitHub Streak" />
-</p>
+</div>
 
-<p>
+
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namangit32&layout=compact&theme=default" alt="Top Languages" />
 </p>
-
-</div>
 
 ---
 
