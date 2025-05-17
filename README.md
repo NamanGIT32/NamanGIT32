@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Naman Paliwal</h1>
 <h3 align="center">🚀 Exploring & Building New Ideas | Frontend Developer | DSA Enthusiast</h3>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding" width="450"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding" width="" height=""/>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=namangit32&label=Profile%20views&color=0e75b6&style=flat" alt="namangit32" /> 
-</p>
+
 
 - 🌱 I’m currently focused on improving my **Problem-Solving Skills through DSA**
 - 💬 Ask me about **Frontend Development**, **React.js**, and **Data Structures**
 - 🧠 Always curious to learn and explore new technologies
-- 💼 I'm a **Frontend Developer** at [UltraCreation IT Solutions](https://www.linkedin.com/company/ultracreation-it-solutions/)
+- 💼 I'm a **Full Stack developer**
 - 📫 Reach me at **namanpaliwal95@gmail.com**
 
 ---
@@ -20,7 +18,7 @@
   <a href="https://twitter.com/namanpaliwal95" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="30" height="30"/></a>
   <a href="https://www.linkedin.com/in/namanpaliwal" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/></a>
   <a href="https://stackoverflow.com/users/23825945/naman-paliwal" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow" width="30" height="30"/></a>
-  <a href="https://linktr.ee/namanpaliwal" target="_blank"><img src="https://img.icons8.com/ios-filled/30/linktree.png" alt="Linktree" width="30" height="30"/></a>
+ 
 </p>
 
 ---
